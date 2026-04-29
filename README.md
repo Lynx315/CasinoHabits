@@ -3,7 +3,7 @@
 A gamified habit-tracking application that transforms mundane habit completion into an exciting casino experience. Built with Python and Streamlit.
 
 ### Live Application
-Visit the app here: **[Casinohabits](https://casinohabits.streamlit.app/)*
+Visit the app here: **[Casinohabits](https://casinohabits.streamlit.app/)**
 
 ## ⚠️ Disclaimer
 
