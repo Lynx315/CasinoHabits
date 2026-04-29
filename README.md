@@ -43,8 +43,8 @@ This system was inspired by and based on the original work by **SpoonfedStudy**.
 - 🎥 [Watch YouTube Tutorial](https://youtu.be/Qji8_5XgMW4?si=xjZ1tFuNFLB6jJhg)
   
 ## 📝 License
-
-MIT
+MIT - License [See LICENSE file]
+Copyright (c) 2026 DozyLynx
 
 ---
 
