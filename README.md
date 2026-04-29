@@ -3,7 +3,7 @@
 A gamified habit-tracking application that transforms mundane habit completion into an exciting casino experience. Built with Python and Streamlit.
 
 ### Live Application
-Visit the app here: **[https://casinohabits.streamlit.app/](https://casinohabits.streamlit.app/)**
+Visit the app here: **[Casinohabits](https://casinohabits.streamlit.app/)*
 
 ## ⚠️ Disclaimer
 
@@ -47,5 +47,3 @@ MIT - License [See LICENSE file]
 Copyright (c) 2026 DozyLynx
 
 ---
-
-**Ready to gamify your habits? [Try it now!](https://casinohabits.streamlit.app/)**
